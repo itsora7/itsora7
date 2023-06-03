@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--HSN807E8--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c09kxheisxgq76e0syk1.jpg)](https://arkshrestha.com)
+[![MasterHead](https://synergytopimages.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/07/06034502/MERN-1-1.png)](https://arkshrestha.com)
 
 <h1 align="center">Hi 👋, I'm Arjun Kumar Shrestha</h1>
 <h3 align="center">Software Engineer || Full Stack Developer</h3>
