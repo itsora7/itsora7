@@ -10,8 +10,6 @@
 
 - 🔭 I’m curently working on **Self Project.**
 
-- 🌱 I’m learning **Full Stack Development**
-
 - 🤝 I’m looking to collaborate on **Brain Storming Projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itsora7/](https://github.com/itsora7/)
