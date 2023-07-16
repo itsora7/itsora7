@@ -8,7 +8,7 @@
 
 - 🌍  I'm based in Sydney
 
-- 🔭 I’m curently working on **Self Project (Rkado App Launching soon......).**
+- 🔭 I’m curently working on **Self Project (Rkado App Launched......).**
 
 - 🤝 I’m looking to collaborate on **Brain Storming Projects.**
 
